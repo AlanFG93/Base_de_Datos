@@ -5,5 +5,6 @@ https://docs.google.com/spreadsheets/d/1kutap_Mkh02oy2JylKdHdyxDIpwKRJgHxaGNevYm
 
 
 ## Código SQL
-https://www.db-fiddle.com/f/kbTenEMG5ax3RNecTVmLg5/0
+
+https://www.db-fiddle.com/f/kbTenEMG5ax3RNecTVmLg5/6
 
