@@ -49,3 +49,4 @@ Agrega un campo en nota que se llame IVA, sabiendo el IVA es de 16% este campo c
 
 https://www.db-fiddle.com/f/d869HRuCM9DpUiJTfj9f6A/5
 
+https://www.db-fiddle.com/f/x3nyzsY8XxJjRUxadJeM1i/15
