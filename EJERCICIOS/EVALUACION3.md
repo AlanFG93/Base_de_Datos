@@ -6,7 +6,7 @@ su esquema
 
 Ejercicio:
 
-1. ¿Qué es un DataWarehouse?(valor 2)
+1. ¿Qué es un DataWarehouse?(valor 2) Es un sistema que agrega y combina información de diferentes fuentes en un almacén de datos único y centralizado
 
 2. Realiza un diseño del modelo en estrella (valor 2)
 
@@ -20,6 +20,10 @@ Objetivo: Demostrar el uso y aplicación en una base de datos para mejorar la ge
 Ejercicio:
 
 1. Calcula el número total de productos que hay en la tabla productos. (valor 4.5)
+
+![image](https://user-images.githubusercontent.com/103210431/171669376-1293c98a-c66d-41f6-9af1-fb0ed3695545.png)
+
+![image](https://user-images.githubusercontent.com/103210431/171669588-71e79ec9-0a9c-4259-9e33-cc5cb62eb313.png)
 
 
 2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado
