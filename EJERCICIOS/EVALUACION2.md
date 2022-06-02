@@ -60,3 +60,5 @@ Modelo entidad/relación
 
 
 Base de datos para MySQL
+
+https://www.db-fiddle.com/f/eQTEdXjoGSV79KMfaWPqBL/1
