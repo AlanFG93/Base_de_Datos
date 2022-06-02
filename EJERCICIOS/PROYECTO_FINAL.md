@@ -36,10 +36,9 @@ un código de categoría único.
 
 # DB-FIDDLE
 
-https://www.db-fiddle.com/f/8jf22QpbdmPwzomRgzBZwc/1
+https://www.db-fiddle.com/f/8jf22QpbdmPwzomRgzBZwc/2
 
-![image](https://user-images.githubusercontent.com/103210431/171342925-736df495-6e76-443a-ad95-7212fca7a52f.png)
-
+![image](https://user-images.githubusercontent.com/103210431/171657568-641c179d-22b9-4875-9f20-deca7828fa23.png)
 
 
 
