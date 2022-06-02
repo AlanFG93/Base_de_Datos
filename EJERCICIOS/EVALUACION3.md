@@ -32,6 +32,11 @@ mostrará dos columnas, una con el nombre del fabricante y otra con el número d
 productos que tiene. Ordene el resultado descendentemente por el número de
 productos. (valor 4.5)
 
+https://www.db-fiddle.com/f/sk85j5yM9qAV8Z4tpB5T6q/2
+
+![image](https://user-images.githubusercontent.com/103210431/171676390-7cd52a28-7416-4133-a269-a2ba11cb93da.png)
+
+
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
 uno de los fabricantes. El resultado mostrará el nombre del fabricante junto con los
 datos que se solicitan. (valor 4.5)
