@@ -12,7 +12,12 @@ Es un sistema que agrega y combina información de diferentes fuentes en un alma
 
 2. Realiza un diseño del modelo en estrella (valor 2)
 
+![image](https://user-images.githubusercontent.com/103210431/171796484-f27df108-fd21-4351-bed2-12f7a67dc26c.png)
+
+
 3. Realiza un diseño del modelo copo de nieve (valor 2)
+
+![image](https://user-images.githubusercontent.com/103210431/171798488-a740e9f3-713e-4c25-9fd8-fae0514d9254.png)
 
 
 ## Práctica 7
