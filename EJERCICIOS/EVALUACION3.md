@@ -6,7 +6,9 @@ su esquema
 
 Ejercicio:
 
-1. ¿Qué es un DataWarehouse?(valor 2) Es un sistema que agrega y combina información de diferentes fuentes en un almacén de datos único y centralizado
+1. ¿Qué es un DataWarehouse?(valor 2) 
+
+Es un sistema que agrega y combina información de diferentes fuentes en un almacén de datos único y centralizado
 
 2. Realiza un diseño del modelo en estrella (valor 2)
 
@@ -41,9 +43,23 @@ https://www.db-fiddle.com/f/sk85j5yM9qAV8Z4tpB5T6q/2
 uno de los fabricantes. El resultado mostrará el nombre del fabricante junto con los
 datos que se solicitan. (valor 4.5)
 
+![image](https://user-images.githubusercontent.com/103210431/171784833-b6d0d247-c429-4a56-a709-00346531fedc.png)
+
+![image](https://user-images.githubusercontent.com/103210431/171784858-e12b669a-bf89-4c8e-a974-7cfdb1f9cef6.png)
+
+https://www.db-fiddle.com/f/2jzdSyYAMzpCMuYZV3ZFkz/0
+
 4. Muestra el nombre de cada fabricante, junto con el precio máximo, precio mínimo,
 precio medio y el número total de productos de los fabricantes que tienen un precio
 medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
+
+https://www.db-fiddle.com/f/2jzdSyYAMzpCMuYZV3ZFkz/2
+
+![image](https://user-images.githubusercontent.com/103210431/171785948-bd2685c3-65ad-4d70-bab8-296673b1bae4.png)
+
+![image](https://user-images.githubusercontent.com/103210431/171785972-59a0eba0-5b31-441e-bb77-1ab8b686f295.png)
+
+
 
 
 ## Práctica 8.
